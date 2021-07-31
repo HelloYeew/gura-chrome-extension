@@ -1,4 +1,4 @@
-# gura-chrome-extension
+# Gura Chrome Extension
 
  Let's change every picture to Gura with this Chrome extension!
 
