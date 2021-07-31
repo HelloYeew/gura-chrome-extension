@@ -24,7 +24,9 @@ During development process, if you make a change you must go to extension page a
 
 If you want to change a picture to other picture. Just change a picture link in [popup.js](popup.js).
 
-If you finish and want to save this extension as one file just go to detail page of the extension and click `Pack extension`.
+If you finish and want to save this extension as one file just go to `chrome://extensions/`,click `Pack extension` and select the project directory. Then you will get `.crx` file to install or make a release of it.
+
+You can read more about how to develop the Chrome extension on [Chrome Documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/). (This project I get the starter file from Chrome Documentation.)
 
 # Contribution
 
