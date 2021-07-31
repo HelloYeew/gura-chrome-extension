@@ -1,7 +1,7 @@
 {
   "name": "Gura Chrome Extension",
   "description": "Let's change bad thing to better thing!",
-  "version": "1.0",
+  "version": "69.0",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
